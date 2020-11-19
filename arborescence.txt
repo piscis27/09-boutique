@@ -1,0 +1,26 @@
+1 dossier 9-boutique
+
+    1 dossier : admin 
+        1 fichier : gestion_boutique.php
+        1 fichier : gestion_commande.php
+        1 fichier : gestion_membre.php
+
+    1 dossier : inc 
+        1 fichier : init.inc.php
+        1 fichier : header.inc.php
+        1 fichier : nav.inc.php 
+        1 fichier : footer.inc.php 
+        1 fichier : fonctions.inc.php
+
+    1 dossier : photo
+
+    à la racine de 9-boutique : 
+
+        inscription.php 
+        connexion.php 
+        profil.php
+        boutique.php 
+        fiche_produit.php 
+        panier.php 
+        contact.php 
+        accueil.php
